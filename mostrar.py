@@ -1,5 +1,5 @@
 
-def mostrar(a,b):
-    return a * b
+def mostrar():
+    return "funcionou"
 
 

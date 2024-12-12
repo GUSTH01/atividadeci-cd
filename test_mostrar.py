@@ -1,10 +1,10 @@
 
 
 import unittest
-import mostrar
+from mostrar import mostrar
 
 class TestMostrar(unittest.TestCase):
 
     def test_soma(self):
-        self.assertEqual(mostrar(2,2),4)
+        self.assertEqual(mostrar(),"funcionou")
 
