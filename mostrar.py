@@ -1,5 +1,5 @@
 
 def mostrar():
-    return print("Funcionou")  # Erro proposital
+    return "Funcionou"  # Erro proposital
 
 
