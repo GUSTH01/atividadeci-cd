@@ -1,5 +1,5 @@
 
-def mostrar():
-    return "Funcionou"  # Erro proposital
+def mostrar(a,b):
+    return a * b
 
 
